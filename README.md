@@ -1,2 +1,2 @@
-# Angular-ask
+# Angular-Task
 Angular practice task
